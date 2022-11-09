@@ -15,5 +15,5 @@
 - Tipo de sistema:	Sistema operativo de 64 bits, procesador x64
 - Lápiz y entrada táctil:	Compatibilidad con entrada táctil con 10 puntos táctiles
 
-**PROGRAMAS UTILIZADOS
+**PROGRAMAS UTILIZADOS**
 - GITBASH
